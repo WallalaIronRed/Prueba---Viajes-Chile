@@ -1,0 +1,25 @@
+
+body{
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: italic;}
+
+.footer{background-color:#4AEEEB;color:#FFFFFF}
+
+.card-body{background-color:#4AEEEB;color:#FFFFFF}
+
+.icono1 {
+            text-align: center;
+            color: white;
+            background-color: #328998;
+            margin-bottom: 10px;
+}
+.icono2 {
+            text-align: center;
+            color: white;
+            background-color: #328998;
+            margin-bottom: 10px;
+}
+
+
+
